@@ -1,4 +1,4 @@
-package loanFiles;
+
 
 import java.io.IOException;
 import org.apache.hadoop.io.Text;
