@@ -1,4 +1,4 @@
-Default Loan Data using Map Reduce and Java
+Default Loan Data using Multi Chaining Map Reduce and Java
 
 By utilizing Hadoop to extract information on average loan amounts, maximum salaries, and minimum salaries for each employee title from the given dataset filtered by loan status = “Default” to address the below research question
 
