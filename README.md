@@ -1,6 +1,6 @@
 # Default Loan Data using Multi Chaining Map Reduce and Java
 
-By utilizing Hadoop to extract information on average loan amounts, maximum salaries, and minimum salaries for each employee title from the given dataset filtered by loan status = “Default” to address the below research question
+By utilizing Hadoop to extract information on average loan amounts, maximum salaries, and minimum salaries for each employee title from the given dataset filtered by loan status = 'Default' to address the below research question
 
 What is the financial risk associated with lending to borrowers with different employee titles? and what is the salary range for these defaulters?
 
